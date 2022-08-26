@@ -1,16 +1,24 @@
 {
   "name": "node_tutorial",
   "version": "1.0.0",
+  "description": "",
   "main": "02-globals.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinods0905/temp-node-tut.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinods0905/temp-node-tut/issues"
+  },
+  "homepage": "https://github.com/vinods0905/temp-node-tut#readme",
   "dependencies": {
     "bootstrap": "^5.2.0",
-    "loadash": "^1.0.0"
-  },
-  "description": ""
+    "lodash": "^4.17.21"
+  }
 }
